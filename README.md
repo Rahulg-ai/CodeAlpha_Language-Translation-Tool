@@ -12,6 +12,7 @@ ________________________________________
 •	Instant translation with a single button click
 ________________________________________
 📸 Screenshot
+<img width="1919" height="787" alt="image" src="https://github.com/user-attachments/assets/c8069449-5341-4b21-b50d-9d59e597f326" />
 
 ________________________________________
 💻 Technologies Used
